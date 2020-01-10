@@ -1,1 +1,1 @@
-# CS161
+# CS161 - Sijun Chen, sijun.ch@gmail.com
